@@ -1,0 +1,31 @@
+BRIFIENG 
+
+
+
+- criar lembretes para o estudo;
+- definir cronograma semanal de estudo;
+- opção para baixar as vídeoaulas;
+- e-books das apostilas;
+- espaço para fazer anotações das aulas;
+- galeria do aluno  (print); // talvez
+- exercícios;
+- testes;
+- mapas mental definidos;
+- reunir grupo de estudos na sua área;
+- 
+
+
+
+Design básico para o projeto  
+
+- tela de cadastro e login (login pelo google e facebook) 
+- tela inicial
+- tela de perfil
+- tela de planejamento
+- tela de exercícios
+- tela de material de apoio (apostila, ebooks e mapas mentais)
+- tela de testes e provas antigas
+- tela do grupo de estudos
+
+
+
