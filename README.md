@@ -1,8 +1,15 @@
-# Projeto-Integrador
-Projeto Estudante Nota 10
+<p align="center">
+  <h1 align="center">Projeto Integrador</h1>
+  <p align="center">Estudante nota 10</p>
+</p>
 
-Projeto educacional
+#### Link da sketch: https://marvelapp.com/project/4395220/
 
-O ESTUDANTE NOTA 10 se preocupa com os dados de seus usuários e tem o compromisso de preservá-los.
+## Participantes: Luiz Gustavo, Gabriel Calixto, Pedro Henrique, Samuel Diogo
 
-Participantes: Luiz Gustavo, Gabriel Calixto, Pedro Henrique, Samuel Diogo
+## Vantagens do Estudante 
+
+- **Vídeo Aulas** - Vídeo aulas a qualquer momento e em qualquer lugar
+
+
+
