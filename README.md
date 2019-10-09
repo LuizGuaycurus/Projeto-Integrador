@@ -17,7 +17,7 @@
 
 ### Vantagens do Estudante Nota 10
 
-- ***Vídeo Aulas*** - Vídeo aulas a qualquer momento e em qualquer lugar
+- **Vídeo Aulas** - Vídeo aulas a qualquer momento e em qualquer lugar
 - **Materiais de apoio** - Materiais de apoio disponíveis a qualquer momento
 - **Cronograma** - Monte seu cronograma de estudos da maneira que quiser
 - **Exercícios** - Exercícios de diversas disciplinas para testar seu conhecimento
